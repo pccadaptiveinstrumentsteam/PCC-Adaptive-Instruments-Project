@@ -1,6 +1,5 @@
-# Summer-2019-Adaptive-Instruments-Project
-Summer 2019 Adaptive Instruments Project, a partnership between Portland Art & Learning Studios and PCC Cascade programs, Music & Sonic Arts and Creative Coding & Immersive Technologies.
-# PCC-adaptive-instruments
+
+# PCC-Adaptive Instruments Project 2019-2020
 Working together with the Portland Art & Learning Studio, the PCC Adaptive Instruments team from the Music & Sonic Arts and Creative Coding & Immersive Technologies program have applied creative coding and rapid prototyping to develop an ensemble of accessible digital musical instruments that facilitate realtime in-key collaborative music making for all people, regardless of their abilities or musical knowledge. 
 
 ## Auto Scaling Touch Synth
