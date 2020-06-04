@@ -14,7 +14,7 @@ Compact and wireless handheld device containing a 9 Degrees of Freedom sensor de
 An Xbox Kinect IR camera feed is interpreted in a Processing sketch to detect human bodies. The Processing sketch provides visual feedback from what its camera is capturing, through a colored filter, to the GUI. The rectangular area captured by the IR camera is downsampled into columns and rows of cells. A detected body part moving from one cell to another triggers a note-on at a specific pitch, sent as OSC to MAX - triggering a guitar-like Karplus Strong implementation. This was popular with artists who prefered to engage with things at a distance, as well as allowed more than one player at a time. Further implementation with Markov-chain assisted note-picking could enhance the musicality of the interface.
 
 
-#Notes
+# Notes
 People with disabilities, in many societies, have faced unspeakable opression. 
 In the united states, the state of oregon ran a eugenics program forcibly sterilizing the disabled population up until 1981. 
 
