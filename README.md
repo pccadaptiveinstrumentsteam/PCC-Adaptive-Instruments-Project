@@ -15,7 +15,7 @@ An Xbox Kinect IR camera feed is interpreted in a Processing sketch to detect hu
 
 
 # Notes
-People with disabilities, in many societies, have faced unspeakable opression. 
+People with disabilities have faced unspeakable opression throughout history. 
 In the united states, the state of oregon ran a eugenics program forcibly sterilizing the disabled population up until 1981. 
 
 Prior to the last few decades people experiencing intellectual and developmental disabilities were routinely imprisoned in mental institutions rife with abuse. "Patients" as they were called, were sedated rather than taught to read and socialize, and grew up socialized by other people around them with significant needs. It is only until recently that we have seen people with developmental and intellectual disabillities like down syndrome hold jobs, run errands, read books, and enjoy culture.
