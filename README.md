@@ -20,7 +20,7 @@ In the united states, the state of oregon ran a eugenics program forcibly steril
 
 Prior to the last few decades people experiencing intellectual and developmental disabilities were routinely imprisoned in mental institutions rife with abuse. "Patients" as they were called, were sedated rather than taught to read and socialize, and grew up socialized by other people around them with significant needs. It is only until recently that we have seen people with developmental and intellectual disabillities like down syndrome hold jobs, run errands, read books, and enjoy culture.
 
-Artists that participated in the project had vastly different preferences in interface. A diagnosis does not correlate to design. It is not useful to assume a certain set of hinderances and preferences based on diagnosis. Personality and physical affect*** had a much bigger role in what interfaces different artists gravitated to. 
+Artists that participated in the project had vastly different preferences in interface. An individual's diagnosis did not directly correlate to design. It was not useful to assume a certain set of hinderances and preferences based on diagnosis. Personality and physical affect*** had a much bigger role in what interfaces different artists gravitated to, though the specific adaptations, particularly in interpreting the sensor results, do require consideration of particular cognitive styles.
 
 During testing and demo sessions it was difficult at times to hear things clearly, which impacted artist's ability to clearly hear the feedback from their gestures. We first addressed this by modifying the sonic profile of the instruments, but eventually realized it had to do in large part with monitoring from only one speaker position. An array of 4 speakers could provide enough space to pan instruments to help artists tell them apart. Other solutions would be built in speakers in the instruments, or headphones with several separate cue mixes.
 
@@ -30,5 +30,4 @@ Artists were generally most enthusiastic about instruments with a very immediate
 
 While blaring fixed glissando may become tiring to the developer's ears, what we may percieve as annoying may be an incredibly liberating experience akin to renowned artists releasing anger and trauma through noise music performance. This may or may not need "fixing" to suit our taste.
 
-
-
+Applying machine learning to the interpretation of sensor results and selection of notes holds possibilities for interfaces that literally adapt to the performer through interaction. Making the musical response dynamic over time can replace the variation sometimes lost through adaptations like forced scales.
