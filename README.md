@@ -5,7 +5,7 @@ Working together with the Portland Art & Learning Studio, the PCC Adaptive Instr
 ## Auto Scaling Touch Synth
 A box with small stripes of etched copper on a PCB panel that sends note on messages when touched. The sound generation is done in a MAX patch with subtractive synthesis and a simple Karplus/Strong lending it to plucked, blown, and bowed sounds. The lack of markings or distinction between keys complimented glissando techniques as well as allowed many tunings to be mapped across the key stripes. In addition, a pair of buttons enable the musician to cycle through presets and tunings - though depending on the application the scale may need to be fixed to facilitate collaborative music making.
 ## Interactive Drum Sequencer
-![Preview1](../master/Images/InterActiveDrumSequencer.jpg?raw=true)
+![Preview1](../master/Images/InteractiveDrumSequencer.jpg?raw=true)
 A GUI and set of sensor pads that control a drum machine's tempo and modulation. The software GUI shows accompanying visual feedback of the 4 sensor pads and show when they have activated one or committed to a sequence. The drum sounds were samples triggered in MAX that would be affected more intensely or less intensely with filters depending on how hard the pad was pressed. With a computer vision script, the computer camera tracked bodies moving to the left or right to speed up or slow down the sequence. This was represented by a slider on the screen as well as shown in a video of themselves in the camera embedded in the GUI. The artists reacted enthusiastically to having so many forms of control and sensory feedback, including swaying the head or torso while playing.
 ## Rotation Detecting Headband Synth
 ![Preview1](../master/Images/RotationDetectingHeadbandSynth.jpg?raw=true)
