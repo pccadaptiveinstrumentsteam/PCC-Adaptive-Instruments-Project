@@ -3,6 +3,7 @@
 Working together with the Portland Art & Learning Studio, the PCC Adaptive Instruments team from the Music & Sonic Arts and Creative Coding & Immersive Technologies program have applied creative coding and rapid prototyping to develop an ensemble of accessible digital musical instruments that facilitate realtime in-key collaborative music making for all people, regardless of their abilities or musical knowledge. 
 
 ## Auto Scaling Touch Synth
+![Preview1](../master/Images/AutoScalingTouchSynth.jpg?raw=true) \
 A box with small stripes of etched copper on a PCB panel that sends note on messages when touched. The sound generation is done in a MAX patch with subtractive synthesis and a simple Karplus/Strong lending it to plucked, blown, and bowed sounds. The lack of markings or distinction between keys complimented glissando techniques as well as allowed many tunings to be mapped across the key stripes. In addition, a pair of buttons enable the musician to cycle through presets and tunings - though depending on the application the scale may need to be fixed to facilitate collaborative music making.
 ## Interactive Drum Sequencer
 ![Preview1](../master/Images/InteractiveDrumSequencer.jpg?raw=true) \
