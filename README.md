@@ -15,7 +15,7 @@ An accelerometer embedded in a wearable headband, programmed to track the rotati
 ![Preview1](../master/Images/handheld9dofsensor.jpg?raw=true) \
 Compact and wireless handheld device containing a 9 Degrees of Freedom sensor detecting orientation and rotation of the device. The handheld controller drives the same sound generating patch as the headband synth, but with up and down tilting controlling the pitch in glissando, and left and right tilt controlling filter cutoff. This instrument seemed like the most universally accessible - as soon as it is picked up or held it is providing sonic feedback to the artist's movements. 
 ## Kinect Air Harp
-![Preview1](../master/Images/xboxkinectairharpplaceholder.jpg?raw=true) \ 	
+![Preview1](../master/Images/xboxkinectairharpplaceholder.jpg?raw=true) \
 An Xbox Kinect IR camera feed is interpreted in a Processing sketch to detect human bodies. The Processing sketch provides visual feedback from what its camera is capturing, through a colored filter, to the GUI. The rectangular area captured by the IR camera is downsampled into columns and rows of cells. A detected body part moving from one cell to another triggers a note-on at a specific pitch, sent as OSC to MAX - triggering a guitar-like Karplus Strong implementation. This was popular with artists who prefered to engage with things at a distance, as well as allowed more than one player at a time. Further implementation with Markov-chain assisted note-picking could enhance the musicality of the interface.
 
 
