@@ -2,14 +2,14 @@
 # PCC-Adaptive Instruments Project 2019-2020
 Working together with the Portland Art & Learning Studio, the PCC Adaptive Instruments team from the Music & Sonic Arts and Creative Coding & Immersive Technologies program have applied creative coding and rapid prototyping to develop an ensemble of accessible digital musical instruments that facilitate realtime in-key collaborative music making for all people, regardless of their abilities or musical knowledge. 
 
-Station (N. Gammil) - voltonstarmine@gmail.com
-https://github.com/val-storm
-Frankie (Botello Ungson)- franciscobotelloungson@gmail.com
-https://github.com/fbotello
-Crystal (Cortez) - crystalquartez@gmail.com
-https://github.com/crystalcortez
-Quinn (Jarvis-Holland) - quinnjarvisholland@gmail.com
-https://github.com/qjarvisholland
+Station (N. Gammil) - voltonstarmine@gmail.com \
+https://github.com/val-storm \
+Frankie (Botello Ungson)- franciscobotelloungson@gmail.com \
+https://github.com/fbotello \
+Crystal (Cortez) - crystalquartez@gmail.com \
+https://github.com/crystalcortez \
+Quinn (Jarvis-Holland) - quinnjarvisholland@gmail.com \
+https://github.com/qjarvisholland \
 
 ## Auto Scaling Touch Synth
 ![Preview1](../master/Images/AutoScalingTouchSynth.jpg?raw=true) \
