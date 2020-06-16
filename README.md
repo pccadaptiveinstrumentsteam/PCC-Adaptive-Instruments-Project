@@ -11,8 +11,8 @@ https://github.com/crystalcortez \
 Quinn (Jarvis-Holland) - quinnjarvisholland@gmail.com \
 https://github.com/qjarvisholland \
 
-https://github.com/PCC-Interactivity-Lab
-Portland Community College Cascade Campus Interactivity Lab
+https://github.com/PCC-Interactivity-Lab \
+Portland Community College Cascade Campus Interactivity Lab \
 705 N Killingsworth St, Portland, OR 97217 , United States
 
 ## Auto Scaling Touch Synth
