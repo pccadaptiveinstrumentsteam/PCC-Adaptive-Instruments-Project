@@ -11,6 +11,10 @@ https://github.com/crystalcortez \
 Quinn (Jarvis-Holland) - quinnjarvisholland@gmail.com \
 https://github.com/qjarvisholland \
 
+https://github.com/PCC-Interactivity-Lab
+Portland Community College Cascade Campus Interactivity Lab
+705 N Killingsworth St, Portland, OR 97217 , United States
+
 ## Auto Scaling Touch Synth
 ![Preview1](../master/Images/AutoScalingTouchSynth.jpg?raw=true) \
 A box with small stripes of etched copper on a PCB panel that sends note on messages when touched. The sound generation is done in a MAX patch with subtractive synthesis and a simple Karplus/Strong lending it to plucked, blown, and bowed sounds. The lack of markings or distinction between keys complimented glissando techniques as well as allowed many tunings to be mapped across the key stripes. In addition, a pair of buttons enable the musician to cycle through presets and tunings - though depending on the application the scale may need to be fixed to facilitate collaborative music making.
