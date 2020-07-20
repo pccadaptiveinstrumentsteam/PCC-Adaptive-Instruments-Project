@@ -5,7 +5,7 @@ Working together with the Portland Art & Learning Studio, the PCC Adaptive Instr
 
 Station (N. Gammil) - voltonstarmine@gmail.com \
 https://github.com/val-storm \
-Frankie (Botello Ungson)- franciscobotelloungson@gmail.com \
+Francisco (Botello Ungson)- franciscobotelloungson@gmail.com \
 https://github.com/fbotello \
 Crystal (Cortez) - crystalquartez@gmail.com \
 https://github.com/crystalcortez \
