@@ -1,5 +1,7 @@
 An interactive project overview prepared for NIME2020 is available here: https://prezi.com/view/CB66VPqXwK73ig2PbPxa/
 
+A video presentation of the project is available to attendees of NIME2020 is available here: https://drive.google.com/file/d/1Pg5b-Janf48tJ_QbPV0opGnDR_KgDauH/view
+
 # PCC-Adaptive Instruments Project 2019-2020
 Working together with the Portland Art & Learning Studio, the PCC Adaptive Instruments team from the Music & Sonic Arts and Creative Coding & Immersive Technologies program have applied creative coding and rapid prototyping to develop an ensemble of accessible digital musical instruments that facilitate realtime in-key collaborative music making for all people, regardless of their abilities or musical knowledge. 
 
